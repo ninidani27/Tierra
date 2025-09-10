@@ -38,4 +38,5 @@ prevButton.addEventListener("click", () => {
   stopAutoPlay();
 });
 
+// iniciar autoplay al cargar
 startAutoPlay();
